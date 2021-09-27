@@ -1,4 +1,4 @@
-#CS789 SW Engineering Project
+# <CS789 SW Engineering Project> tag
 This is a project of software engineering postgraduate course.
 
 **Team members:**
