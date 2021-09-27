@@ -14,5 +14,5 @@ This is a project of software engineering postgraduate course.
 [26-09-2021] Related work reading
 
 
-Selected paper: 
+**Selected paper:** 
  *C. M. K. Saifullah, M. Asaduzzaman, and C. K. Roy, “COSTER: A Tool for Finding Fully Qualified Names of API Elements in Online Code Snippets,” in 2021 IEEE/ACM 43rd International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2021, pp. 73–76.*
