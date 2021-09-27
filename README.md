@@ -8,10 +8,10 @@ This is a project of software engineering postgraduate course.
 1. Shahad Ibrahim Aljumah
 
 **Project timeline:**
-[(15-18)-09-2021] Reading and selecting research papers in ICSE2021 and MSR2021
-[20-09-2021] Team meeting and discussing the selected research papers  
-[22-09-2021] Team meeting with dr.Wojdan BinSaeedan 
-[26-09-2021] Related work reading
+*[(15-18)-09-2021] Reading and selecting research papers in ICSE2021 and MSR2021
+*[20-09-2021] Team meeting and discussing the selected research papers  
+*[22-09-2021] Team meeting with dr.Wojdan BinSaeedan 
+*[26-09-2021] Related work reading
 
 
 **Selected paper:** 
