@@ -5,7 +5,8 @@ This is a project of software engineering postgraduate course.
 1. Hajar Barrak Mubarak Alharbi,
 1. Maram Ali Sarhan,
 1. Sarah RajaAllah Olyan Almatrafi,
-1. Shahad Ibrahim Aljumah. 
+1. Shahad Ibrahim Aljumah.
+  
   <br/><br/>  
 
 **Project timeline**
