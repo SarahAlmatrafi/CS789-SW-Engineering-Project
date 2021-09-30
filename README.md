@@ -1,7 +1,7 @@
 # <h1> CS789 SW Engineering Project
 This is a project of software engineering postgraduate course.
 <br/><br/>
-**Team members **
+**Team members**
 1. Hajar Barrak Mubarak Alharbi,
 1. Maram Ali Sarhan,
 1. Sarah RajaAllah Olyan Almatrafi,
